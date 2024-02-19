@@ -1,3 +1,6 @@
 a
+<<<<<<< HEAD
 b
 e
+=======
+>>>>>>> parent of 6123af7 (test commit 2)
